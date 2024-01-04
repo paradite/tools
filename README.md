@@ -2,7 +2,7 @@
 
 ## macOS Utilities
 
-Spectacle](https://github.com/eczarny/spectacle): Windows management and resizing
+[Spectacle](https://github.com/eczarny/spectacle): Windows management and resizing
 - Archived in 2023, [Rectangle](https://github.com/rxhanson/Rectangle) has been recommended as an alternative
 
 <details>
@@ -17,13 +17,19 @@ Spectacle](https://github.com/eczarny/spectacle): Windows management and resizin
   <img width="500" src="https://github.com/paradite/tools/assets/1209810/10d10d20-f1a4-44e2-a8d7-1bf594f023ca">
 </details>
 
-## Note & TODO Management
+## Note & TODO
 
-[Joplin](https://joplinapp.org/): Notes and TODO Management
+[Joplin](https://joplinapp.org/): Note and TODO Management
 
 <details>
   <summary>Screenshot</summary>
   <img width="500" src="https://github.com/paradite/tools/assets/1209810/6ee20688-4bee-4005-851c-0d49e868f0e9">
 </details>
+
+## Cloud Service Providers
+
+[DigitalOcean](https://m.do.co/c/e2c39afc5bf9): Simple and easy-to-use VPS
+
+## Cloud Tools
 
 [Nextcloud](https://nextcloud.com/) (self-hosted): WebDAV For Joplin notes storage and sync across different devices
