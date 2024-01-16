@@ -33,3 +33,15 @@
 ## Cloud Tools
 
 [Nextcloud](https://nextcloud.com/) (self-hosted): WebDAV For Joplin notes storage and sync across different devices
+
+## Database Administration
+
+[MySQLWorkbench](https://www.mysql.com/products/workbench/): MySQL Database Administration
+<details>
+  <summary>Bug</summary>
+  Encoding error can be resolved by opening up the app via command line, instead of macOS GUI.
+</details>
+
+## FTP/SFTP Client
+
+[Cyberduck](https://cyberduck.io/): Cyberduck is a libre server and cloud storage browser.
