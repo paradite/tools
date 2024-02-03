@@ -45,3 +45,27 @@
 ## FTP/SFTP Client
 
 [Cyberduck](https://cyberduck.io/): Cyberduck is a libre server and cloud storage browser.
+
+## Visual Studio Code Extensions
+
+Must haves:
+
+[Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log): Console log anything in less than 1 second.
+
+[Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode): Auto code formatting for all things frontend.
+
+[Window Colors](https://marketplace.visualstudio.com/items?itemName=stuart.unique-window-colors): Make the windows for different projects have different colors, easier for context switching.
+
+[Git Blame](https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame): Immediate Git Blame in bottom status bar.
+
+[colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize): View colors visually in css, less, sass, etc.
+
+[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens): A bunch of git related tools, I use the toggle Git Blame feature the most.
+
+Situationally useful:
+
+[Excel Viewer](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer): View Excels and csv files in a grid.
+
+[Markdown Preview Mermaid Support](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid): Add Mermaid diagram and flowchart support to markdown previews.
+
+[PlantUML](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml): Add PlantUML file preview support.
