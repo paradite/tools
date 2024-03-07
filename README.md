@@ -1,5 +1,9 @@
 # Tools I Use
 
+## Terminal Emulator
+
+[iTerm2](https://iterm2.com/): iTerm2 is a replacement for Terminal and the successor to iTerm
+
 ## macOS Utilities
 
 [Spectacle](https://github.com/eczarny/spectacle): Windows management and resizing
