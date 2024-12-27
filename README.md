@@ -22,6 +22,9 @@
   <img width="500" src="https://github.com/paradite/tools/assets/1209810/10d10d20-f1a4-44e2-a8d7-1bf594f023ca" />
 </details>
 
+[noTunes](https://github.com/tombonez/noTunes)
+- A simple macOS application that will prevent iTunes or Apple Music from launching.
+
 ## Note & TODO
 
 [Joplin](https://joplinapp.org/): Note and TODO Management
