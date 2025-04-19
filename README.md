@@ -15,7 +15,6 @@
 </details>
 
 [MenuMeters](https://github.com/yujitach/MenuMeters): Display Stats on Menu Bar
-- No longer working in 2024, use [Stats](https://github.com/exelban/stats)
 
 <details>
   <summary>Screenshot</summary>
